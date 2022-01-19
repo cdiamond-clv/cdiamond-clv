@@ -1,0 +1,10 @@
+---
+title: "How Clover became an open platform"
+slug: "how-clover-became-an-open-platform"
+hidden: true
+createdAt: "2018-06-25T21:23:33.912Z"
+updatedAt: "2019-12-02T18:28:22.497Z"
+---
+[![cat-dinner-table](cat-dinner-table1-e1433198581751.jpg)](https://docs.clover.com/wp-content/uploads/2014/08/cat-dinner-table12.jpg)
+
+You have an amazing idea for a restaurant you frequently visit.  When you finish eating, diners can just get up and walk out.  Their account will be charged.  You even know how you want to pitch it to investors.  It's going to be the Uber for Restaurants.  You are a good programmer so you start building it.  It looks really good.  Time to test it out. INSERT INTO awesome\_solution VALUES(closed system, impossible sales challenge); You can't hook it up to the card terminal, no terminal maker wants you messing around with card data.  You can't plug it into a PC point of sale system, they don't want you breaking something and then causing the restaurant to call their support line.  Worse, you realize that even if you do figure out a way to MacGyver the solution, you now have to go door to door trying to sell your solution. We faced the same challenge.  So we decided to blow up the closed world of point of sale.  We broke the monolithic POS into lots of apps.  We connected these together with APIs and exposed our web services to everyone. INSERT INTO awesome\_solution VALUES(open system); Then we found First Data.  First Data processes $2 trillion every year.  Not a typo.  Capital T.  And they were determined to replace the terminals of their six million merchants with this open platform.  They retrained thousands of salespeople and started to spread Clover everywhere. INSERT INTO awesome_solution VALUES(distribution, distribution, distribution); That's it.  So go build your awesome solution.  Raise lots of VC money.  Go public.  Live the dream.
